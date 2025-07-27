@@ -1,4 +1,4 @@
-# gpt-2-output-dataset
+# Gpt-2-output-dataset
 
 This dataset contains:
 - 250K documents from the WebText test set
